@@ -1,15 +1,6 @@
 
 # 小说精品屋-plus
 
-#### 官网
-
-https://201206030.github.io
-
-#### 新项目：小说精品屋-微服务版
-
-基于小说精品屋-plus构建的Spring Cloud 微服务小说门户平台。
-
-Gitee仓库地址： https://gitee.com/novel_dev_team/novel-cloud
 
 #### 演示地址
 
