@@ -15,8 +15,6 @@ https://201206030.github.io
 
 基于小说精品屋-plus构建的Spring Cloud 微服务小说门户平台。
 
-GitHub仓库地址： https://github.com/201206030/novel-cloud
-
 Gitee仓库地址： https://gitee.com/novel_dev_team/novel-cloud
 
 #### 演示地址
@@ -312,13 +310,3 @@ docker安装教程：[点击前往](https://my.oschina.net/java2nb/blog/4271989)
 
 ![mini-code](https://s1.ax1x.com/2020/10/31/BUQJwq.png)
 
-#### 免责声明
-
-本项目提供的爬虫工具仅用于采集项目初期的测试数据，请勿用于商业盈利。
-用户使用本系统从事任何违法违规的事情，一切后果由用户自行承担，作者不承担任何责任。
-
-#### 备注
-
-精品小说屋所有相关项目均已在开源中国公开，感兴趣的可进入[开源中国](https://www.oschina.net/p/fiction_house)按关键字`精品小说屋`搜索。
-
-[![index](https://s1.ax1x.com/2020/07/03/NOSuMF.jpg)](https://www.aliyun.com/minisite/goods?userCode=uf4nasee )
