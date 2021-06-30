@@ -284,29 +284,3 @@ docker安装教程：[点击前往](https://my.oschina.net/java2nb/blog/4271989)
 
  Gitee仓库地址： https://gitee.com/novel_dev_team/novel-plus
 
-#### QQ交流群
-
-[点击前往官网查看](https://xiongxyang.gitee.io/service.htm)
-
-问问题的三要素
-
-1. 说明背景，使用了哪个模块，要做什么？
-
-2. 怎么输入或操作的得到了什么结果？ 截图，日志
-
-3. 哪里不明白或有什么疑问 ？
-
-#### 微信公众号（发布最新更新资讯、最新前端模版、最新爬虫规则、技术文档等）
-
-![mini-code](https://s3.ax1x.com/2020/12/03/DoImOx.png)
-
-#### 赞赏支持
-
-开源项目不易，若此项目能得到你的青睐，那么你可以赞赏支持作者持续开发与维护。
-
-- 服务器的费用也是一笔开销
-- 为用户提供更好的开发环境
-- 一杯咖啡 
-
-![mini-code](https://s1.ax1x.com/2020/10/31/BUQJwq.png)
-
