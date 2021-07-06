@@ -222,7 +222,7 @@ novel-plus -- 父工程
     #SEO描述
     description: ${website.name}是一个多端（PC、WAP）阅读、功能完善的原创文学CMS系统，由前台门户系统、作家后台管理系统、平台后台管理系统、爬虫管理系统等多个子系统构成，支持会员充值、订阅模式、新闻发布和实时统计报表等功能，新书自动入库，老书自动更新。
     #联系QQ
-    qq: 1179705413
+
   ```
 
 3. prod环境下需要修改novel-front模块下application-prod.yml配置文件中的模版名为你需要使用的模版名（templates文件夹下的模版文件夹名，内置orange和dark两套模版，prod环境下才支持多模版）。
@@ -238,29 +238,5 @@ novel-plus -- 父工程
 
 5. 启动程序，打开浏览器，默认8080端口访问。
 
-**喜欢此项目的可以给我的GitHub和Gitee加个Star支持一下 。**
 
-#### 其他安装教程（如果链接打不开，可关注公众号获取）
-
-##### version>=3.5.0版本
-
-包安装及低版本升级教程：[点击前往](https://my.oschina.net/java2nb/blog/4914688)
-
-##### 3.3.0<=version<3.5.0版本
-
-包安装教程：[点击前往](https://my.oschina.net/java2nb/blog/4842472) 
-
-##### version<3.3.0版本
-
-包安装教程：[点击前往](https://my.oschina.net/java2nb/blog/4272630) 
-
-宝塔安装教程（非官方）：[点击前往](https://www.daniao.org/9166.html) 
-
-docker安装教程：[点击前往](https://my.oschina.net/java2nb/blog/4271989)
-
-#### 代码仓库
-
- GitHub仓库地址： https://github.com/201206030/novel-plus 
-
- Gitee仓库地址： https://gitee.com/novel_dev_team/novel-plus
 
